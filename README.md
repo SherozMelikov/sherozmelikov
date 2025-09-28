@@ -1,4 +1,4 @@
-<img src="https://github.com/SherozMelikov/sherozmelikov/blob/main/assets/Name.gif" width="400"/>
+<img src="https://github.com/SherozMelikov/sherozmelikov/blob/main/assets/Name.gif" width="800"/>
 
 About me
 
