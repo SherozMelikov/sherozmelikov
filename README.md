@@ -31,7 +31,7 @@
 
 
 ## 📫 Connect with me
-- Telegram: [@shekhroz](https://t.me/shekhroz)
+- Telegram: [@shekhroz](https://t.me/@sheroz6226)
 - LinkedIn: [Shekhroz Melikov](https://www.linkedin.com/in/sheroz-melikov-9497b232a)
 
 
