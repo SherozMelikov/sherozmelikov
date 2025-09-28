@@ -22,6 +22,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![AMS](https://img.shields.io/badge/-AMS-FF6F61?style=for-the-badge&logo=Apache&logoColor=white)
 
+[![Sheroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherozMelikov)](https://github.com/SherozMelikov/github-readme-stats)
+
 
 
 Follow me 
