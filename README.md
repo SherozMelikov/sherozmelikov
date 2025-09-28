@@ -1,4 +1,4 @@
-![Header](https://github.com/SherozMelikov/sherozmelikov/blob/main/assets/Name.gif) 
+<img src="https://github.com/SherozMelikov/sherozmelikov/blob/main/assets/Name.gif" width="400"/>
 
 About me
 
