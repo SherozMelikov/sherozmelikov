@@ -1,6 +1,6 @@
 <img src="https://github.com/SherozMelikov/sherozmelikov/blob/main/assets/Name.gif" width="800"/>
 
-## I'm a beginner Data Analyst and Software ingineer
+## I'm a beginner Data Analyst and Software engineer
 
 
 ### Programming Languages
